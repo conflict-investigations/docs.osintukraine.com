@@ -1,3 +1,11 @@
-site_name: OSINTUkraine.com docs
+site_name: osintukraine docs
+repo_url: https://github.com/conflict-investigations/docs.osintukraine.com
+repo_name: conflict-investigations/docs.osintukraine.com
 theme:
-  material
+  name: material
+  font: false
+  logo: img/fellas.png
+  # homepage: https://osintukraine.com
+  favicon: img/fellas.png
+  palette:
+    primary: blue grey
